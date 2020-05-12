@@ -147,8 +147,6 @@ lazy val ports = {
     .dependsOn(core)
 }
 
-ThisBuild / credentials += Credentials(new File("credentials.properties"))
-
 scalafmtOnCompile in ThisBuild := true
 
 addCommandAlias(

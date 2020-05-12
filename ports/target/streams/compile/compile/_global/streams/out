@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sebastianr/Estudio/copa-onboarding/MASTER/back-end-troopers/ports/src/main/scala/co/s4n/practice/adapter/EmployeeAdapterImpl.scala:10:25: Unused import[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.concurrent.Future[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
